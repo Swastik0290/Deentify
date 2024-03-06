@@ -1,10 +1,5 @@
 
 
-
-// btn.addEventListener('submit',(e)=>{
-//     console.log(nameC);
-// })
-
 var form = document.getElementById('send_data');
 
 
